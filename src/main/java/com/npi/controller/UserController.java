@@ -108,3 +108,46 @@ public class UserController {
 	}
 
 }
+//
+//git init
+//
+//git add .
+//
+//git commit -m "any message"
+//
+//git remote add origin <repo name>
+//
+//git remote -v
+//
+//git push origin master
+//
+// 
+//
+//for next time:-
+//
+//[03-08 16:45] Pittala, Manideep
+//
+//git init
+//
+//git add .
+//
+//git commit -m "any message"
+//
+//git push origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
